@@ -1,0 +1,19 @@
+    1. Tell me about your proudest professional achievement.  
+    It can also be a personal or school project.  
+    
+    Getting my first job as a tech for the Chamber of Commerce.
+    It was a dream first job in that I did everything and got to figure out what kind of
+    hacker I wanted to be. I'm proud of my humble roots in early web development and 
+    really happy that I decided to follow the Coder path over System Administration and 
+    definitely over FileMakerPro Database Administration
+    
+    2. Tell me about something you have read recently that you would recommend and why. 
+    (Can be a Github Repo, Article, Blog, Book, etc) 
+    
+    I am reading a book called the Great Sea, about the sailors in the Mediterranean, 
+    which discusses how cultures influenced each other in the past through exchange. The web
+    is like the new Mediterranean, but what took years, now takes seconds. Something to think about.
+
+
+    3. How would you explain to your grandmother what Availity does? 
+    Facilitates financial transactions between medical payers and providers.
